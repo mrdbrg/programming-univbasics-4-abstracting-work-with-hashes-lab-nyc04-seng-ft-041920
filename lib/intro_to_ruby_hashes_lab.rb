@@ -1,4 +1,5 @@
 def my_hash_creator(key, value)
+  
   has_creator = {
     :key => value
   }
